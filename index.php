@@ -1,3 +1,4 @@
 <?php 
-echo "percobaan saja";
+echo "Percobaan saja lah";
+echo "Nama saya Niko";
  ?>
